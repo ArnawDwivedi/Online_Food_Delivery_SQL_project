@@ -18,3 +18,4 @@ This SQL project simulates an online food delivery system.
 - Views
 - Queries for business insights
 -
+-
