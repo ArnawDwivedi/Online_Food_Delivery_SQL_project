@@ -17,3 +17,5 @@ This SQL project simulates an online food delivery system.
 - Aggregations
 - Views
 - Queries for business insights
+-
+-
